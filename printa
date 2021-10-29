@@ -1,0 +1,6 @@
+//
+public class class4
+{
+intc=70;
+System.out.println(c);
+}
